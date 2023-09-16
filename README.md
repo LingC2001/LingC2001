@@ -1,4 +1,4 @@
-<a href="https://github.com/LingC2001" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technological-sense-geometric-line-simple-image_19419.jpg" width=100% height=200px/> </a>
+<a href="https://github.com/LingC2001" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b5/d7/44/b5d744ae152890e6547ba806dda1c5bc.jpg" width=100%/> </a>
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
 <h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
