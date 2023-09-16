@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ling Chen</h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h1 align="center">Hello 👋, I'm Ling Chen</h1>
+<h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
-🔭 I’m currently working on [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
+<h3 align="left">Projects:</h3> 
+[Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
+[Pipe Decommissioning]
+[Warehousing Robot]
+[OD Robot]
 
 
 
