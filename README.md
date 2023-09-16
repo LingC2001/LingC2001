@@ -26,11 +26,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-📧 **LingC2001@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/ling-chen-b7a7971a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ling-chen-b7a7971a4" height="30" width="40" /></a>
 <a href="https://fb.com/lingc2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lingc2001" height="30" width="40" /></a>
 <a href="https://discord.gg/YDQj6UEx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YDQj6UEx" height="30" width="40" /></a>
+ <a href="mailto:LingC2001@gmail.com"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40" height="40"/> LingC2001@gmail.com</a>
 </p>
 
 
