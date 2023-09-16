@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ling-chen-b7a7971a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ling-chen-b7a7971a4" height="30" width="40" /></a>
 <a href="https://fb.com/lingc2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lingc2001" height="30" width="40" /></a>
-<a href="https://discord.gg/YDQj6UEx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YDQj6UEx" height="30" width="40" /></a>
+<a href="https://discord.gg/YDQj6UEx" target="blank"><img align="center" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" alt="YDQj6UEx" height="40" width="40" /></a>
  <a href="mailto:LingC2001@gmail.com"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40" height="40"/> LingC2001@gmail.com</a>
 </p>
 
