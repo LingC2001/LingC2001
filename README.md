@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technological-sense-geometric-line-simple-image_19419.jpg)](https://github.com/LingC2001)
+<a href="https://github.com/LingC2001" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technological-sense-geometric-line-simple-image_19419.jpg" width=100% height=200px/> </a>
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
 <h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
