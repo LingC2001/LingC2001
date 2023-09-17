@@ -42,6 +42,6 @@
 <a href="https://discord.gg/YDQj6UEx" target="blank"><img align="center" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" alt="YDQj6UEx" height="40" width="40" /></a>
  <a href="mailto:LingC2001@gmail.com"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40" height="40"/> LingC2001@gmail.com</a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&locale=en" alt="lingc2001" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingc2001&label=Profile%20views&color=0e75b6&style=flat" alt="lingc2001" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingc2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="lingc2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&theme=dark&locale=en" alt="lingc2001" /></p>
