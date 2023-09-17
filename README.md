@@ -5,7 +5,7 @@
 <h3 align="left">Projects:</h3> 
 [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
 <br>
-[Pipe Decommissioning]
+[Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
 <br>
 [Warehousing Robot]
 <br>
