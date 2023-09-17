@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
 <h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
-<h3 align="left">Projects:</h3> 
+## Projects
 [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
 <br>
 [Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
@@ -12,8 +12,7 @@
 [Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
 
 
-
-<h3 align="left">Languages:</h3>
+## Languages
 <p align="left">  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -42,6 +41,17 @@
 <a href="https://discord.gg/YDQj6UEx" target="blank"><img align="center" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" alt="YDQj6UEx" height="40" width="40" /></a>
  <a href="mailto:LingC2001@gmail.com"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40" height="40"/> LingC2001@gmail.com</a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingc2001&label=Profile%20views&color=0e75b6&style=flat" alt="lingc2001" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingc2001&show_icons=true&theme=dark&locale=en&layout=compact" alt="lingc2001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&theme=dark&locale=en" alt="lingc2001" /></p>
+
+## Stats
+<a> 
+  <a href="https://github.com/lingc2001"><img alt="Ling Chen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/lingc2001"><img alt="Ling Chen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lingc2001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/lingc2001">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingc2001&theme=radical" alt="Ling Chen's GitHub Contribution"/>
+  </a>
+</p>
+
