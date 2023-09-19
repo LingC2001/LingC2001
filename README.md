@@ -3,13 +3,13 @@
 <h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
 ## Projects
-[Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
-<br>
-[Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
-<br>
-[Warehousing Robot]
-<br>
-[Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
+- [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
+
+- [Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
+
+- [Warehousing Robot]
+
+- [Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
 
 
 ## Languages
