@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
 <h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
 
-## Currently Projects
+## Current Projects
 - [Warehousing Robot](https://github.com/jjah0001/ECE4191G11)
 
 ## Past Projects
