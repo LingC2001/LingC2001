@@ -17,7 +17,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://cplusplus.com/doc/tutorial/)
-<a href="https://au.mathworks.com/products/matlab.html"><img src="https://i.imgur.com/mDKl9b0.jpeg" alt="matlab" height="27"/></a>
+<a href="https://au.mathworks.com/products/matlab.html"><img src="https://i.imgur.com/B06B0XM.jpeg" alt="matlab" height="27"/></a>
 
 <h3 align="left">Others:</h3>
 
