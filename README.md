@@ -2,7 +2,9 @@
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
 <p align="center">
   A Mechatronics/AI Engineering and Computer Science student... <br>
-  Interested in Robotics, Machine Learning, Computer Vision, Algorithms.
+  Interested in Robotics, Machine Learning, Computer Vision, Algorithms.<br>
+  .<br>
+  .<br>
 </p>
 
 ## Current Projects
