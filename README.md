@@ -1,6 +1,9 @@
 <a href="https://github.com/LingC2001" target="_blank" rel="noreferrer"> <img src="https://www.huntingtonsociety.ca/wp-content/uploads/2013/11/Stary-Night-Sky-1026x320.jpg" width=100%/> </a>
 <h1 align="center">Hello 👋, I'm Ling Chen</h1>
-<h3 align="center">A Mechatronics/AI Engineering and Computer Science student. </h3>
+<p align="center">
+  A Mechatronics/AI Engineering and Computer Science student... <br>
+  Interested in Robotics, Machine Learning, Computer Vision, Algorithms.
+</p>
 
 ## Current Projects
 - [Repo] [Warehousing Robot](https://github.com/jjah0001/ECE4191G11)
