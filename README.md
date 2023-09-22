@@ -9,6 +9,7 @@
 ## Past Projects
 - [Repo] [Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
 - [Repo] [Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
+- [Repo] [Digestate Analysis Automation](https://github.com/xavierandueza/TRC3000_Team) 
 
 
 ## Languages
