@@ -8,10 +8,11 @@
 </p>
 
 ## Current Projects
-- [Repo] [Warehousing Robot](https://github.com/jjah0001/ECE4191G11)
-- [Repo] [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
+- None Yet
 
 ## Past Projects
+- [Repo] [Warehousing Robot](https://github.com/jjah0001/ECE4191G11)
+- [Repo] [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
 - [Repo] [Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
 - [Repo] [Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
 - [Repo] [Digestate Analysis Automation](https://github.com/LingC2001/Digestate-Analysis-Automation) 
