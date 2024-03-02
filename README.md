@@ -1,5 +1,6 @@
+<!---
 <a href="https://github.com/LingC2001" target="_blank" rel="noreferrer"> <img src="https://www.huntingtonsociety.ca/wp-content/uploads/2013/11/Stary-Night-Sky-1026x320.jpg" width=100%/> </a>
-<h1 align="center">Hello 👋, I'm Ling Chen</h1>
+--->
 <p align="center">
   A Mechatronics/AI Engineering and Computer Science student... <br>
   Interested in Robotics, Machine Learning, Computer Vision, Algorithms.<br>
@@ -35,7 +36,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-
+<!---
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LingC2001@gmail.com)
@@ -57,3 +58,4 @@
 
 ![](https://komarev.com/ghpvc/?username=lingc2001&color=blueviolet&style=for-the-badge)
 
+--->
