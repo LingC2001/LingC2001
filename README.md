@@ -3,7 +3,7 @@
 --->
 <p align="center">
   A Mechatronics/AI Engineering and Computer Science student... <br>
-  Interested in Robotics, Machine Learning, Computer Vision, Algorithms.<br>
+  Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
   .<br>
   .<br>
 </p>
