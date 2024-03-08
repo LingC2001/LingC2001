@@ -57,7 +57,7 @@
   <!--- 
   <a href="https://github.com/lingc2001"><img alt="Ling Chen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lingc2001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   --->
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/LingC2001?theme=dark&ext=heatmap&hide=ranking&width=400&height=200)](https://leetcode.com/LingC2001/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/LingC2001?theme=dark&ext=heatmap&hide=ranking&width=500&height=300)](https://leetcode.com/LingC2001/)
   <br/>
 </a>
 
