@@ -3,6 +3,8 @@
 --->
 ## Quick Overview
 <p align="center">
+  .<br>
+  .<br>
   A Mechatronics/AI Engineering and Computer Science student... <br>
   Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
   .<br>
@@ -51,13 +53,15 @@
 --->
 
 ## Stats
-<a> 
-  <a href="https://github.com/lingc2001"><img alt="Ling Chen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a>  
+  <a href="https://github.com/lingc2001"><img alt="Ling Chen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lingc2001&show_icons=true&include_all_commits=true&count_private=true&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&icon_color=F8D866" height="192px" width="500px"/></a>
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/LingC2001?theme=dark&ext=heatmap&hide=ranking&width=500&height=300)](https://leetcode.com/LingC2001/) 
   
   <!--- 
-  <a href="https://github.com/lingc2001"><img alt="Ling Chen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lingc2001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/lingc2001"><img alt="Ling Chen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lingc2001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   --->
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/LingC2001?theme=dark&ext=heatmap&hide=ranking&width=500&height=300)](https://leetcode.com/LingC2001/)
+  
   <br/>
 </a>
 
