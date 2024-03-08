@@ -16,12 +16,11 @@
 - None Yet
 
 ## Past Projects
-- [Repo] [Warehousing Robot](https://github.com/jjah0001/ECE4191G11)
-- [Repo] [Drowsiness Detection](https://github.com/LingC2001/Drowsiness-Detection-FYP)
-- [Repo] [Pipe Decommissioning](https://github.com/LingC2001/pipeline-decommissioning)
-- [Repo] [Object Detection Robot](https://github.com/LingC2001/Object-Detection-Robot)
-- [Repo] [Digestate Analysis Automation](https://github.com/LingC2001/Digestate-Analysis-Automation) 
-
+<a href="https://github.com/jjah0001/ECE4191G11"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjah0001&repo=ECE4191G11&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="ECE4191G11"></a>
+<a href="https://github.com/LingC2001/Drowsiness-Detection-FYP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Drowsiness-Detection-FYP&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Drowsiness-Detection-FYP"></a>
+<a href="https://github.com/LingC2001/pipeline-decommissioning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=pipeline-decommissioning&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="pipeline-decommissioning"></a>
+<a href="https://github.com/LingC2001/Object-Detection-Robot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Object-Detection-Robot&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Object-Detection-Robot"></a>
+<a href="https://github.com/LingC2001/Digestate-Analysis-Automation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Digestate-Analysis-Automation&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Digestate-Analysis-Automation"></a>
 
 ## Skills & Tools
 <h3 align="left">Languages:</h3>
