@@ -7,7 +7,7 @@
   .<br>
   A Mechatronics/AI Engineering and Computer Science student... <br>
   Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
-  Building Software and Robotics Projects <br>
+  Building Machine Learning and Robotics Projects <br>
   .<br>
   .<br>
 </p>
