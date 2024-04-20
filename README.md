@@ -14,7 +14,9 @@
 
 ## Current Projects
 <a href="https://github.com/LingC2001/Algorithms-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Algorithms-Python&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Algorithms-Python"></a>
+<!--- 
 <a href="https://github.com/LingC2001/Leetcode-Solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Leetcode-Solutions&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Leetcode-Solutions"></a>
+--->
 
 ## Past Projects
 <p align="left">
