@@ -8,7 +8,7 @@
   A Mechatronics/AI Engineering and Computer Science student... <br>
   Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
   Building Machine Learning and Robotics Projects <br>
-  Competitive Programming for Fun <br>
+  Learning Competitive Programming for Fun <br>
   .<br>
   .<br>
 </p>
