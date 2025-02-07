@@ -5,7 +5,7 @@
 <p align="center">
   .<br>
   .<br>
-  A Mechatronics/AI Engineering and Computer Science student... <br>
+  Graduate Mechatronics AI/Software Engineering... <br>
   Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
   Building Machine Learning and Robotics Projects <br>
   Learning Competitive Programming for Fun <br>
