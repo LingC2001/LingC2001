@@ -15,15 +15,16 @@
 
 ## Current Projects
 <a href="https://github.com/LingC2001/Algorithms-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Algorithms-Python&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Algorithms-Python"></a>
-<a href="https://github.com/LingC2001/LOL-matchups-scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=LOL-matchups-scraper&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="LOL-matchups-scraper"></a>
+
 <!--- 
 <a href="https://github.com/LingC2001/Leetcode-Solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Leetcode-Solutions&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Leetcode-Solutions"></a>
 --->
 
 ## Past Projects
 <p align="left">
-<a href="https://github.com/LingC2001/Drowsiness-Detection-FYP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Drowsiness-Detection-FYP&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Drowsiness-Detection-FYP"></a>
+<a href="https://github.com/LingC2001/LOL-matchups-scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=LOL-matchups-scraper&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="LOL-matchups-scraper"></a>
 <a href="https://github.com/LingC2001/pipeline-decommissioning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=pipeline-decommissioning&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="pipeline-decommissioning"></a>
+<a href="https://github.com/LingC2001/Drowsiness-Detection-FYP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Drowsiness-Detection-FYP&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Drowsiness-Detection-FYP"></a>
 <a href="https://github.com/LingC2001/Object-Detection-Robot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Object-Detection-Robot&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Object-Detection-Robot"></a>
 <a href="https://github.com/LingC2001/Digestate-Analysis-Automation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Digestate-Analysis-Automation&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Digestate-Analysis-Automation"></a>
 <a href="https://github.com/jjah0001/ECE4191G11"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jjah0001&repo=ECE4191G11&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="ECE4191G11"></a>
@@ -35,7 +36,6 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://cplusplus.com/doc/tutorial/)
-<a href="https://au.mathworks.com/products/matlab.html"><img src="https://i.imgur.com/B06B0XM.jpeg" alt="matlab" height="27"/></a>
 
 <h3 align="left">Frameworks/Libraries:</h3>
 
