@@ -5,7 +5,7 @@
 <p align="center">
   .<br>
   .<br>
-  Graduate Mechatronics AI/Software Engineer... <br>
+  Mechatronics AI/Software Engineer... <br>
   Interested in Programming, Robotics, Machine Learning, Computer Vision<br>
   Building Machine Learning and Robotics Projects <br>
   .<br>
