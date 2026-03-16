@@ -21,8 +21,10 @@
 <a href="https://github.com/LingC2001/LOL-matchups-scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=LOL-matchups-scraper&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="LOL-matchups-scraper"></a>
 
 ## Others
+<a href="https://github.com/LingC2001/docs-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=docs-template&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="docs-template"></a>
+<a href="https://github.com/LingC2001/leetcode-docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=leetcode-docs&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="leetcode-docs"></a>
+<a href="https://github.com/LingC2001/system-design-docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=system-design-docs&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="system-design-docs"></a>
 <a href="https://github.com/LingC2001/dotfiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=dotfiles&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="dotfiles"></a>
-<a href="https://github.com/LingC2001/Leetcode-Solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Leetcode-Solutions&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Leetcode-Solutions"></a>
 <a href="https://github.com/LingC2001/Algorithms-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LingC2001&repo=Algorithms-Python&theme=react&border_color=46464a&bg_color=111112&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Algorithms-Python"></a>
 
 </p>
